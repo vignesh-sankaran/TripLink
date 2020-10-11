@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## TripLink privacy policy
 
-You can use the [editor on GitHub](https://github.com/vignesh-sankaran/TripLink/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This policy applies to all information collected or submitted on the TripLink app
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Information we collect
 
-### Markdown
+Diagnostic information is collected for the purposes of generating crash reports to make it easier to find and fix them when they occur.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Ads and analytics
 
-```markdown
-Syntax highlighted code block
+No ads are currently served by TripLink, nor are there analytics tracked in the app.
 
-# Header 1
-## Header 2
-### Header 3
+## Security
 
-- Bulleted
-- List
+Requests to PTV's API is made using HTTPS and is verified using a HMAC-SHA1 signature
 
-1. Numbered
-2. List
+## Third-party content, links, and attribution
 
-**Bold** and _Italic_ and `Code` text
+TripLink's data is provided by Public Transport Victoria. There are currently no external links to third party content. This privacy is templated from [Overcast's privacy policy](https://overcast.fm/privacy)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Your Consent
 
-### Jekyll Themes
+By using our site or apps, you consent to the outlined privacy policy.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vignesh-sankaran/TripLink/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Contacting Us
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have questions regarding this privacy policy, please email developer@triplinkapp.com
