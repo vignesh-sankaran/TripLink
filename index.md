@@ -10,7 +10,7 @@ Diagnostic information is collected for the purposes of generating crash reports
 
 ### Ads and analytics
 
-No ads are currently served by TripLink, nor are there analytics tracked in the app.
+No ads are currently served by TripLink. Anonymised analytics are captured for the purposes of diagnostics and crash reporting.
 
 
 ### Security
